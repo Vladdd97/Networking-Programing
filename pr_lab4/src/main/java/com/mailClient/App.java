@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class App {
 
     public static final String USERNAME = "vladbantus02@gmail.com";
-    public static final String PASSWORD = "ercvvpgjqjeyjius";
+    public static final String PASSWORD = "***";
     public static final String TO = "vladislav.bantus@faf.utm.md";
 
     public static void main(String[] args) {
